@@ -1,2 +1,3 @@
-# recipe-app-api
-Recipe app api source code.
+# parser_posts_api
+Parser posts from some site.
+API for this service.
